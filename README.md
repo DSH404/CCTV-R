@@ -19,7 +19,7 @@ CCTV-R is a random cctv hacking tool...with this tool You can hack random cctv c
 + ```python CCTV-R.py```
 
 ### Interfere
-![photo](https://raw.githubusercontent.com/TeamTSZ/CCTV-R/main/Index.jpg)
+![photo](https://raw.githubusercontent.com/TeamTSZ/File_Box/main/CCTV-R.png)
 
 #### Created By : TeamTSZ
 
