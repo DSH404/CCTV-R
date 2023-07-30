@@ -21,7 +21,7 @@
 + ```pip install requests```
 + ```git clone https://github.com/DSH404/CCTV-R.git```
 + ```cd CCTV-R```
-+ ```python CCTV-R.py```
++ ```python CCTV.py```
 
 ### Interfere
 ![photo](https://raw.githubusercontent.com/DSH404/File_Box/main/CCTV-R.png)
